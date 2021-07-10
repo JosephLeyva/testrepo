@@ -1,0 +1,3 @@
+# More test scripts...
+
+prin ("Second file")
